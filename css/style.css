@@ -1,0 +1,46 @@
+body{
+	margin:0;
+}
+img{
+		max-width:100%;
+}
+.banner{
+	text-align: center;
+    padding: 400px 15%;
+    background-attachment: fixed;
+    background-position:center; 
+}
+
+.bg01{
+	background-image:url(../images/12.jpg);
+}
+
+.bg02{
+	background-image:url(../images/21.jpg);
+ } 
+
+.bg03{
+	background-image:url(../images/20.jpg);
+}
+
+h1{
+    margin: 0;
+font-size: 50px;
+color: #d6bfbf;
+}
+
+p{
+	font-size: 15px;
+}
+.content-box{
+	color: #c7d5d5;
+    background-color: #335d2c63;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+
+
